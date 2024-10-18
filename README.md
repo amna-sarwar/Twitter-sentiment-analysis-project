@@ -48,7 +48,7 @@ The dataset used for this project was sourced from [Kaggle](https://www.kaggle.c
 # Steps to Execute
 # Clone the repository:
 
-git clone https://github.com/amna-sarwar/Twitter-sentiment-analysis-project/tree/main.git
+git clone https://github.com/amna-sarwar/Twitter-sentiment-analysis-project.git
 # Navigate to the project directory:
 
 cd twitter-sentiment-analysis
